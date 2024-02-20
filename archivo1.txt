@@ -23,3 +23,10 @@ The name Java may come from the initials of the names of its creators James Gosl
 It is also said about a type of coffee that these programmers used to drink.
 Name of an island in Indonesia.
 JustAnother Vague Acronym.
+
+
+
+When Java was released
+
+In its beginnings, Java swam against the most common, since from the beginning it was a multiplatform system. 
+Although it was not fully released until 2006, after many unsuccessful attempts by developers to get rid of what they knew as “the Java trap.”
