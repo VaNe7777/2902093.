@@ -1,10 +1,25 @@
 History and something more: 7 curiosities about Java
 
-Java is a programming language that this year celebrated its 25th anniversary. A quarter of a century that has served to provide many anecdotes and curiosities about Java has left us along the way.
+Java is a programming language that this year celebrated its 25th anniversary. A quarter of a century that has served 
+to provide many anecdotes and curiosities about Java has left us along the way.
 
 We leave you with a small compilation of the 7 most striking curiosities about this programming platform.
 
 
+
 Java Origins
 
-Java was created in 1991 for the company Sun Microsystems. A company that would later become the property of ORACLE, one of Google's competitors, for which James Gosling, one of the creators of this programming language, would later work.
+Java was created in 1991 for the company Sun Microsystems. A company that would later become the property of ORACLE, 
+one of Google's competitors, for which James Gosling, one of the creators of this programming language, would later work.
+
+
+
+Where does the name Java come from?
+
+Before having the name Java, this language was called Oak, which was later changed. There are some theories about 
+this that have never been confirmed:
+
+The name Java may come from the initials of the names of its creators James Gosling, Arthur Van Hoff, and Andy Bechtolsheim (JAVA).
+It is also said about a type of coffee that these programmers used to drink.
+Name of an island in Indonesia.
+JustAnother Vague Acronym.
