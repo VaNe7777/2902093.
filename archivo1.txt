@@ -30,3 +30,14 @@ When Java was released
 
 In its beginnings, Java swam against the most common, since from the beginning it was a multiplatform system. 
 Although it was not fully released until 2006, after many unsuccessful attempts by developers to get rid of what they knew as “the Java trap.”
+
+
+
+
+Did you know who uses it?
+
+If Java is the most popular programming language today, it is for a reason. These are some of their most important clients:
+
+- Twitter
+- CERN
+- ebay
